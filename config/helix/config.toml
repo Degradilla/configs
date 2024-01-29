@@ -1,0 +1,9 @@
+theme = "dark_plus"
+
+[editor]
+scrolloff = 30
+scroll-lines = 1
+idle-timeout = 0
+
+[editor.cursor-shape]
+insert = "bar"
